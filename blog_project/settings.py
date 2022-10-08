@@ -53,6 +53,7 @@ INSTALLED_APPS = [
     'dj_rest_auth',
    
     # local
+    'comments.apps.CommentsConfig',
     'posts.apps.PostsConfig'
 
 
